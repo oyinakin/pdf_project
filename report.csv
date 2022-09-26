@@ -1,0 +1,73 @@
+Assets
+Cash and deposits,1000,,
+"Machinery, equipment, furniture and fixtures",1740,"246,667","242,242"
+"Accumulated amortization of machinery, equipment, furniture and fixtures",1741,"(148,410)","(116,556)"
+Motor vehicles,1742,"128,691","128,691"
+Accumulated amortization of motor vehicles,1743,"(92,320)","(79,577)"
+Inventories,1120,"740,579","511,900"
+Accounts Receivable,1060,"46,479","63,442"
+Buildings,1680,"1,100,325","1,100,325"
+Accumulated amortization of buildings,1681,"(217,017)","(157,503)"
+Taxes receivable,1066,924,"67,076"
+Prepaid expenses,1484,,"13,002"
+Due from shareholder(s) / director(s) - current amounts,1300,"5,813",
+Total assets,2599,"1,811,731","1,773,042"
+,,,
+Liabilities
+Bank overdraft,2600,"104,299","169,472"
+Amounts payable and accrued liabilities,2620,"459,902","340,672"
+Private loan,3147,"87,000","107,000"
+Due to shareholder(s) / director(s) - long-term amounts,3260,,"57,359"
+Long term debt,3140,"1,344,809","1,312,082"
+Current portion of long term liability,2920,,"8,995"
+Credit card loans,2707,"99,305","60,135"
+Total liabilities,3499,"2,095,315","2,055,715"
+,,,
+Equity
+Common shares,3500,"280,156",100
+,,,
+Retained earnings / deficit,3600,"(563,740)","(282,773)"
+Total equity,3620,"(283,584)","(282,673)"
+Total liabilities and equity,3640,"1,811,731","1,773,042"
+,,,
+Revenue
+Trade sales of goods and services,8000,"815,550","660,373"
+,,,
+Total sales of goods and services,8089,"815,550","660,373"
+Other revenue,8230,"2,898","4,046"
+Foreign exchange gains / losses,8231,(209),"(5,844)"
+Total revenue,8299,"818,239","658,575"
+,,,
+Cost of sales
+Opening inventory,8300,,
+Purchases / cost of materials,8320,"603,861","529,176"
+Cost of sales
+Gross profit / loss (item 8089 - item 8518),8519,"211,689","131,197"
+,,,
+Operating expenses
+,,,
+Total operating expenses,9367,,
+Total expenses,9368,"603,861","529,176"
+Net non-farming income,9369,"214,378","129,399"
+,,,
+Farming revenue
+Grains and oilseeds,9370,,
+,,,
+Total farm revenue,9659,,
+,,,
+Farming expenses
+Crop expenses,9660,,
+Amortization of tangible assets,9791,"104,112","177,049"
+Freight and trucking,9801,"23,768","13,304"
+Interest and bank charges,9805,"104,459","49,099"
+Office expenses,9808,"6,735","11,490"
+Professional fees,9809,"17,770","3,637"
+Rent - land and buildings,9811,"57,166","60,565"
+Salaries and wages,9814,"13,404","31,700"
+Motor vehicle expenses,9819,"25,735","24,851"
+Other insurance premiums,9804,"6,053","8,155"
+Other rental expenses,9813,,"5,902"
+Licences / permits,9823,"8,544",
+"Advertising, marketing costs and promotion",9792,64,
+Telephone,9824,"3,154",
+Travel expenses,9834,581,
